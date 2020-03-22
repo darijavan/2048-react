@@ -1,3 +1,9 @@
+# React 2048
+
+The 2048 game made with React
+
+<hr>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
